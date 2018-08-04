@@ -29,9 +29,9 @@ public class PageController {
         return page;
     }
 
-    @RequestMapping("/item/list")
-    @ResponseBody
-    public EasyUIDataGridResult getitemList(Integer page, Integer rows) {
-        return itemService.getItemList(page, rows);
-    }
+//    @RequestMapping("/item/list")
+//    @ResponseBody
+//    public EasyUIDataGridResult getItemList(Integer page, Integer rows) {
+//        return itemService.getItemList(page, rows);
+//    }
 }
