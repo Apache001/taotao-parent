@@ -1,225 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1caefd01-9bf4-4a70-b0eb-c8e09b89cdc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20111221C.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20120112B.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20120209D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130330A.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130330A_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130330B_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130330C.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130415i.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130606B (1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130606B.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/20130725.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/2013100701.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/2013100702.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/360_flash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/360_video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/537b084eN94336622.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/541f893aN662da9bc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/541fdd63Nab1b3c63.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/54238aaaN17189794.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/543b4d75N686689d7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/5440b1e4N8ff6d0fd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/5440b1e7N1ade375b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/5440ce68Na00d019e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/544a11d3Na5a3d566.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/547e6a57N75c2f016.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/549d03d0N59b1f026.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/backpanel20140708.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/bg20110922.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/bg_hotsale.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/bg_prompt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/bg_thickbox.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/btn-again.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/btn-bg-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/btn-check-20140627.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/btn-submit-new.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/btn-submit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/cart_corner_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/checkout-title.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/cicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/commstar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/control-icon-20140521.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/cue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/defaultImgs/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/error-3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/error-jd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/errordog.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/floor-sort20131202.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/flow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/footprint-arr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/hover-btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/icon48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/iconadd.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/im20131028.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/index-jd-wx-qrcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/index.showcase.tg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/layer-credit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/loading-jd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/login-all-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/logo-201305.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/m-buy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/more-slide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/my_cart_title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/myjd-bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/myjd-common-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/myjd-new-ico.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/newicon20140417.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/one4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/one5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/one6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/order-icon-20140811.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/p-btns-20140611.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/perfect_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/phone-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/promise20141021.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/purchase-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/pwdstrength.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/qr-code-sao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/qr-code-sao02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/rBEhV1I2yiUIAAAAAADKL7RWKf8AADQDQOQekkAAMpH341.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/rBEhV1NXYLYIAAAAAADGO8-wV-UAAMfdgNi-BAAAMZT367.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/rank-sh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/rank2014.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/regist-btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/regist-word.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/share.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/step1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/step2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/sucess.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/swfupload.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/tab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/taotao-logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/thickbox_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/tip-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/tip-cue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/toggler-arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/update.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/user_purchase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/vip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/virtuals-20140606.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/virtuals-cat-ico20140826.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/wait-btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/images/yzm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/artifacts/taotao_search_service_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/artifacts/taotao_search_service_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/artifacts/taotao_search_web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/artifacts/taotao_search_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/libraries/Maven__commons_io_commons_io_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/libraries/Maven__org_apache_solr_solr_solrj_4_10_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/libraries/Maven__org_noggit_noggit_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/java/com/taotao/controller/IndexManagerController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/webapp/WEB-INF/jsp/import-index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/footer-links.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/error/exception.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/myjd.commentImg.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/myjd.common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/myjd.info.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/myjd.order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/order-commons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/passport.base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/pop_compare.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/psearch.onebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/psearch20131008.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/pshow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/purchase.2012.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/purchase.base.2012.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/purchase.checkout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/purchase.sop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/regist.personal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/css/taotao.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/CommentStar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/base-2011.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/base-v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/cart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/iplocation_server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jTips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jquery-1.6.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jquery-extend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jquery.checkout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jquery.hashchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/jquery.price_format.2.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/lib-v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/order.common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/product.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/search_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/js/taotao.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/taotao-search-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/src/main/java/com/taotao/search/service/SearchItemService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/taotao-search-interface.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/service/impl/SearchItemServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/mybatis/SqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/properties/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/properties/resource.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-dao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-solr.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/taotao-search-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/.idea/artifacts/taotao_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/artifacts/taotao_manager_web_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/.idea/misc.xml" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/.idea/modules.xml" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/modules.xml" />
+    <list default="true" id="1caefd01-9bf4-4a70-b0eb-c8e09b89cdc0" name="Default" comment="solr搜索">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/src/main/java/com/taotao/search/service/SearchService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/dao/SearchDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/service/impl/SearchServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../taotao-parent/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/pom.xml" afterPath="$PROJECT_DIR$/../taotao-parent/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/pom.xml" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/resources/spring/springmvc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/taotao-manager-web.iml" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/taotao-manager-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../taotao-parent/out/" />
     <ignored path="$PROJECT_DIR$/../taotao-parent/target/" />
@@ -262,113 +52,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ContentServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-content/taotao-content-service/src/main/java/com/taotao/content/service/impl/ContentServiceImpl.java">
+      <file leaf-file-name="SearchResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchResult.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="35" column="55" lean-forward="false" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+            <state relative-caret-position="216">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchItemServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/service/impl/SearchItemServiceImpl.java">
+      <file leaf-file-name="SearchDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/dao/SearchDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="297">
+              <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchItemMapper.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.xml">
+      <file leaf-file-name="SearchService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/src/main/java/com/taotao/search/service/SearchService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-              <folding>
-                <marker date="1533821836751" expanded="true" signature="291:533" ph="SELECT a.id,... tb_item" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchItemMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.java">
+      <file leaf-file-name="SearchServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/service/impl/SearchServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-493">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchItem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchItem.java">
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding>
-                <element signature="e#1214#1215#0" expanded="true" />
-                <element signature="e#1246#1247#0" expanded="true" />
-                <element signature="e#1296#1297#0" expanded="true" />
-                <element signature="e#1338#1339#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="327">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexManagerController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/java/com/taotao/controller/IndexManagerController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/resources/spring/springmvc.xml">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            <state relative-caret-position="302">
+              <caret line="28" column="94" lean-forward="true" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="94" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemCatController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/java/com/taotao/controller/ItemCatController.java">
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/java/com/taotao/controller/ItemController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="168">
+              <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="resource.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-696">
+            <state relative-caret-position="27">
+              <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/search.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1074">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -414,8 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../taotao-parent/taotao-manager/taotao-manager-interface/src/main/java/com/taotao/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/JsonUtils.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-manager/taotao-manager-service/src/main/java/com/taotao/service/impl/ItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/java/com/taotao/controller/ItemController.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/TaotaoResult.java" />
@@ -456,8 +231,6 @@
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/src/main/java/com/taotao/search/service/SearchItemService.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-solr.xml" />
-        <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml" />
-        <option value="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/pom.xml" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/java/com/taotao/controller/IndexManagerController.java" />
@@ -465,6 +238,10 @@
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchItem.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/service/impl/SearchItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.xml" />
+        <option value="$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java" />
+        <option value="$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties" />
       </list>
     </option>
   </component>
@@ -586,241 +363,6 @@
             <path>
               <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-content-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-manager-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-portal-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
               <item name="taotao-search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -912,17 +454,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -942,36 +473,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search" type="462c0819:PsiDirectoryNode" />
-              <item name="taotao-search-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -1014,6 +516,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1032,6 +543,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-search-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1056,11 +577,11 @@
       <recent name="com.taotao.pageHelper" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\taotao-parent\taotao-search-web\src\main\java\com\taotao\search\controller" />
+      <recent name="E:\taotao-parent\taotao-search\taotao-search-service\src\main\java\com\taotao\search\service\impl" />
+      <recent name="E:\taotao-parent\taotao-search\taotao-search-interface\src\main\java\com\taotao\search\service" />
+      <recent name="E:\taotao-parent\taotao-search\taotao-search-service\src\main\java\com\taotao\search\dao" />
       <recent name="E:\taotao-parent\taotao-manager-web\src\main\java\com\taotao\controller" />
-      <recent name="E:\taotao-parent\taotao-manager-web\src\main\webapp\WEB-INF\jsp" />
-      <recent name="E:\taotao-parent\taotao-search\taotao-search-service\src\main\java\com\taotao\search\mapper" />
-      <recent name="E:\taotao-parent\taotao-common\src\main\java\com\taotao\common\pojo" />
-      <recent name="E:\taotao-parent\taotao-search-web\src\main\webapp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\taotao-parent\taotao-manager\taotao-manager-service\src\test" />
@@ -1335,7 +856,7 @@
       <updated>1532765214281</updated>
       <workItem from="1532765220871" duration="15531000" />
       <workItem from="1532826731081" duration="17739000" />
-      <workItem from="1532865727764" duration="52992000" />
+      <workItem from="1532865727764" duration="55653000" />
     </task>
     <task id="LOCAL-00001" summary="创建项目">
       <created>1532827701872</created>
@@ -1463,7 +984,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533469790685</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="solr搜索">
+      <created>1533949360061</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1533949360061</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1481,7 +1009,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86262000" />
+    <option name="totallyTimeSpent" value="88923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1607,55 +1135,14 @@
     <MESSAGE value="商品添加" />
     <MESSAGE value="前台系统" />
     <MESSAGE value="redis缓存" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis缓存" />
+    <MESSAGE value="solr搜索" />
+    <option name="LAST_COMMIT_MESSAGE" value="solr搜索" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-content/taotao-content-interface/src/main/java/com/taotao/content/service/ContentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-content/taotao-content-interface/src/main/java/com/taotao/content/service/ContentCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-portal-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="27" column="97" lean-forward="false" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-portal-web/src/main/java/com/taotao/portal/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-content/taotao-content-service/src/test/java/com/taotao/redis/TestJedis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-content/taotao-content-service/src/main/java/com/taotao/jedis/JedisClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1752,22 +1239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-183">
@@ -1802,14 +1273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/src/main/java/com/taotao/search/service/SearchItemService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1830,14 +1293,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -2031,14 +1486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="23" column="101" lean-forward="false" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-manager-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-696">
@@ -2124,11 +1571,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/mapper/SearchItemMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="459">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
           <folding>
             <marker date="1533821836751" expanded="true" signature="291:533" ph="SELECT a.id,... tb_item" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-common/src/main/java/com/taotao/common/pojo/SearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/dao/SearchDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/java/com/taotao/search/service/impl/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-interface/src/main/java/com/taotao/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search/taotao-search-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="28" column="94" lean-forward="true" selection-start-line="28" selection-start-column="94" selection-end-line="28" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/java/com/taotao/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="39" column="49" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/resources/resource/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../taotao-parent/taotao-search-web/src/main/webapp/WEB-INF/jsp/search.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
