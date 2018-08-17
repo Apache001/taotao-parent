@@ -28,7 +28,7 @@ public class ItemController {
 	@RequestMapping("/item/{itemId}")
 	public String showItem(@PathVariable Long itemId, Model model) {
 		//取商品基本信息
-		TbItem tbItem = itemService.getItemById(itemId);
+		TbItem tbItem = itemService.getItemByID(itemId);
 		Item item = new Item(tbItem);
 		//取商品详情
 		TbItemDesc tbItemDesc = itemService.getItemDescById(itemId);
